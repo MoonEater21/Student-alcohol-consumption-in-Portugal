@@ -13,7 +13,7 @@ Here's a quick look at the dataset I'm using:
 
 The libraries used are as follows:
 - numpy
-- panda
+- pandas
 - matplotlib
 - seaborn
 - sklearn
